@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '5333'
     url: http://www.gutenberg.org/2009/agents/5333
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14023#Life-of-Daniel-Boone-the-Great-Western-Hunter-and-Pioneer
 gutenberg_issued: '2004-11-11'
 gutenberg_type: Text
 identifiers:
