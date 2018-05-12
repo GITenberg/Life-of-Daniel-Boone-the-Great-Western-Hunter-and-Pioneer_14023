@@ -1,0 +1,28 @@
+_repo: Life-of-Daniel-Boone-the-Great-Western-Hunter-and-Pioneer_14023
+_version: 0.1.0
+alternative_title: Life & Times of Col. Daniel Boone
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hartley, Cecil B.
+    alias: Hartley, C. B. (Cecil B.)
+    gutenberg_agent_id: '5333'
+    url: http://www.gutenberg.org/2009/agents/5333
+description: ''
+gutenberg_issued: '2004-11-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14023'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'F396'
+- !lcsh 'Pioneers -- Kentucky -- Biography'
+- !lcsh 'Boone, Daniel, 1734-1820'
+- !lcsh 'Frontier and pioneer life -- Kentucky'
+title: Life of Daniel Boone, the Great Western Hunter and Pioneer
+url: http://www.gutenberg.org/ebooks/14023
